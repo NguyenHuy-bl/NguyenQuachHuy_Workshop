@@ -41,7 +41,7 @@ chapter: false
 
 ## Ảnh đại diện
 
-<img src="/NguyenQuachHuy_Workshop/images/1.png" alt="Ảnh đại diện" width="280">
+<img src="/NguyenQuachHuy_Workshop/images/2.png" alt="Ảnh đại diện" width="280">
 
 ---
 

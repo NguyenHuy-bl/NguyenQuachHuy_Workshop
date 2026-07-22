@@ -41,7 +41,7 @@ chapter: false
 
 ## Profile Image
 
-<img src="/NguyenQuachHuy_Workshop/images/1.png" alt="Profile Image" width="280">
+<img src="/NguyenQuachHuy_Workshop/images/2.png" alt="Profile Image" width="280">
 
 ---
 
